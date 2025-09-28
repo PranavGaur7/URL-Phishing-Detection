@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+
+# Dataset files
+# ignore specific files
+ProcessData/*.csv
+phishing_dataset_features.csv
+
+# or, to ignore all CSV files in ProcessData, use:
+
+# Common extras you probably want to ignore
+.env
+*.pyc
+*.pyo
+*.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+venv/
+.env/
+
+
+# Ignore all .pkl files
+*.pkl
