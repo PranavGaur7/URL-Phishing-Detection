@@ -36,7 +36,8 @@ A machine learning-powered tool to **detect phishing URLs** based on structural 
 
 ## Demo
 
-![Project Screenshot]( Enter a URL in the web app and see its phishing risk score in real time!
+<img width="1852" height="874" alt="image" src="https://github.com/user-attachments/assets/33aa645c-28de-4712-af74-9df7f9e51ccf" />
+
 
 ***
 
@@ -55,7 +56,6 @@ A machine learning-powered tool to **detect phishing URLs** based on structural 
 
 3. **Prepare dataset**
    - Download `file1.csv`, `file2.csv`, `phishing_dataset_features.csv` from [Dataset Folder (Google Drive)](https://drive.google.com/drive/folders/1kXXq7ZK5v9Pk3QHmV8Pc1mU2qDcSQciS?usp=sharing)
-
    - Place your labeled URL CSV files (e.g., `file1.csv`, `file2.csv`) in the `ProcessData/` folder.
    - Place `phishing_dataset_features.csv` in main folder
    - Run the processing script:
